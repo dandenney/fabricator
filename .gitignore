@@ -1,3 +1,4 @@
 node_modules
+!node_modules/fabricator-assemble/index.js
 dist
 .sass-cache
